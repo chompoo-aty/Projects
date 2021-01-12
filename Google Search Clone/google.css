@@ -1,0 +1,100 @@
+header, body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.searchbar input[type=text] {
+    border-radius: 25px;
+}
+.inputTxt input[type=text] {
+    border-radius: 50px;
+    width: 40%;
+    height: 30px;
+    border: 1px solid lightgrey;
+}
+.inputImage input[type=text] {
+    border-radius: 50px;
+    width: 40%;
+    height: 30px;
+    border: 1px solid lightgrey;
+}
+.advancedsearch {
+    border: 1px solid lightgrey;
+    width: 1500px;
+    height: 70px;
+}
+.moresearch2 {
+    text-align: right;
+}
+.advancedSearchButton input[type=submit] {
+    background-color: #6495ed;
+    color: white;
+    border: none;
+    padding: 13px;
+}
+input[type=submit] {
+    padding: 13px;
+    border-radius: 5px;
+    border: none;
+}
+input[type=text] {
+    display: block;
+    width : 500px;    
+}
+.findPages {
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+h3 {
+    color: #cc0000;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.advancedsearchInput, .spanText, .spanSearch, .googleSearchButton, .luckyButton {
+    display: inline-block;
+}
+div {
+    padding-left: 30px;
+}
+#advancedsearchText {
+    font-size: 13px;
+    color: grey;
+}
+#fontTxt {
+    font-family: 'Courier New', Courier, monospace;
+}
+#blue {
+    color: #1e90ff;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 530;
+}
+#red {
+    color: red;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 530;
+}
+#yellow {
+    color: yellow;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 530;
+}
+#green {
+    color: green;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 530;
+}
+#redRotate {
+    transform: rotate(-20deg);
+    color: red;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 530;
+}
+span {
+    display: inline-block;
+}
