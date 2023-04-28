@@ -6,4 +6,3 @@ This repository contains all project codes in every programming language I write
 🔸&nbsp;&nbsp;&nbsp; **Google Search Clone**<br />
 ## Python
 🔸&nbsp;&nbsp;&nbsp; **Random Number Generator** <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coded in Python
