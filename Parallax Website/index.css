@@ -1,0 +1,60 @@
+h2 {
+    border-radius: 25px;
+    background: pink;
+    width: 11%;
+    height: 11%;
+    padding: 1%;
+    font-size: 40px;
+    font-family: Georgia, serif;
+}
+.Jinyoung {
+    margin: 25px;
+    padding: 25px;
+    background-image: url(https://img.freepik.com/free-vector/flat-design-abstract-background_23-2149116123.jpg?w=1060&t=st=1682478846~exp=1682479446~hmac=7f597f957d604ff84b84cb1c985e33458580df79fe85108542ee82a30a015ba5);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+}
+.Hyoseop {
+    margin: 25px;
+    padding: 25px;
+    background-image: url(https://img.freepik.com/free-vector/gradient-light-peach-background_23-2150272605.jpg?w=1060&t=st=1682479441~exp=1682480041~hmac=066f985abc4672ca17af6bfa2a3840ca1ff77a28c2bcb190a9d55c355aceb619);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+}
+.Taecyeon {
+    margin: 25px;
+    padding: 25px;
+    background-image: url(https://img.freepik.com/free-vector/abstract-smooth-liquid-banner-presentation-backdrop_1017-42992.jpg?w=1380&t=st=1682499015~exp=1682499615~hmac=96a3bb9ed8cec8a36ff5f2407aa1dfc9c67088260f69309730b92842d716f836);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+}
+.Suho {
+    margin: 25px;
+    padding: 25px;
+    background-image: url(https://img.freepik.com/premium-vector/modern-vector-graphic-abstract-background-fluid-background-design-template_600800-52.jpg?w=1380);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+}
+figcaption {
+    font-family: monospace;
+    font-size: 25px;
+}
+h1 {
+    color:aquamarine;
+    font-size: 500%;
+}
+body {
+    background-color: lightgoldenrodyellow;
+}
