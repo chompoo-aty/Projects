@@ -1,8 +1,9 @@
 # Projects
-This repository contains all project codes I wrote, including all types of projects.
+This repository contains all project codes in every programming language I write in my free time.
 
 # Lists of Projects I Built
-🔸&nbsp;&nbsp;&nbsp; **Google Search Clone** <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coded in HTML and CSS<br /><br />
+## HTML/CSS
+🔸&nbsp;&nbsp;&nbsp; **Google Search Clone**<br />
+## Python
 🔸&nbsp;&nbsp;&nbsp; **Random Number Generator** <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coded in Python
